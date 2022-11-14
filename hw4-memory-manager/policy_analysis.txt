@@ -1,0 +1,23 @@
+FIFO,GLOBAL:
+Process A, Effective Access Time = 164.758
+Process A, Page Fault Rate: 0.723
+Process B, Effective Access Time = 163.709
+Process B, Page Fault Rate: 0.665
+
+FIFO,LOCAL:
+Process A, Effective Access Time = 164.980
+Process A, Page Fault Rate: 0.774
+Process B, Effective Access Time = 163.144
+Process B, Page Fault Rate: 0.700
+
+CLOCK,GLOBAL:
+Process A, Effective Access Time = 164.758
+Process A, Page Fault Rate: 0.723
+Process B, Effective Access Time = 163.709
+Process B, Page Fault Rate: 0.665
+
+CLOCK,LOCAL:
+Process A, Effective Access Time = 164.980
+Process A, Page Fault Rate: 0.774
+Process B, Effective Access Time = 163.522
+Process B, Page Fault Rate: 0.694
